@@ -10,3 +10,10 @@ cd ./IsItUp/IsItUp
 cargo build
 cp ./target/debug/IsItUp /usr/bin/
 ```
+
+# Usage
+Simply pass a file path as an argument
+
+``` bash
+IsItUp [filepath]
+```
